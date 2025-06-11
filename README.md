@@ -1,8 +1,10 @@
 # comfyUI_workflows                                                                                                        
 存一些自己搭建or复刻的工作流
 
+个人摸索路径日志
+
 实操学习路径
-B站papaya的视频入门：https://www.bilibili.com/video/BV1an9zY3EmC/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f0332ff4e16f088f0f25d5ed5274bad2
+B站papaya的视频入门：https://www.bilibili.com/video/BV1an9zY3EmC/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f0332ff4e16f088f0f25d5ed5274bad2 
 basic工作流来源：https://github.com/cubiq/ComfyUI_Workflows/tree/main/basic#basic //根据这个工作流学习一些基础的节点知识。
 工作流生成模特，让模特穿上指定衣物工作流项目：https://github.com/CY-CHENYUE/ComfyUI-Redux-Prompt 
 
